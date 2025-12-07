@@ -472,9 +472,8 @@ This experiment transforms abstract algorithmic concepts into tangible, observab
 
 ## 📞 **Contact & Repository**
 
-**GitHub Repository:** [https://github.com/rmokashi01](https://github.com/rmokashi01)  
-**Email:** rehanmokashi786@gmail.com 
-
+**GitHub Repository:** [https://github.com/jpcodes2109](https://github.com/jpcodes2109)  
+**Email:** jayantpatil2109@yahoo.com
 ---
 
 ## ⭐ **Acknowledgments**

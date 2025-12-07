@@ -63,11 +63,11 @@ Each experiment folder contains a detailed README with implementation notes, ins
 ## 🚀 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/rmokashi01/ADSA-LAB-CS2111.git
+   git clone https://github.com/jpcodes2109/ADSA-LAB-CS2111-main.git
    ```
 2. Navigate to the desired experiment folder:
    ```bash
-   cd ADSA-LAB-CS2111/ExpXX_ExperimentName
+   cd ADSA-LAB-CS2111-main/ExpXX_ExperimentName
    ```
 3. Follow the instructions in the experiment-specific README to compile and run the code.
 
@@ -85,5 +85,5 @@ This repository documents the practical implementation of key advanced data stru
 
 ---
 **Submitted by:** Mr. Jayant Bhagwat Patil  
-**Date:** 08/Desember/2025  
-**Repository:** [https://github.com/rmokashi01/ADSA-LAB-CS2111](https://github.com/rmokashi01/ADSA-LAB-CS2111)
+**Date:** 08/December/2025  
+**Repository:** [https://github.com/jpcodes2109/ADSA-LAB-CS2111-main](https://github.com/jpcodes2109/ADSA-LAB-CS2111-main)

@@ -678,7 +678,7 @@ This project is intended for **educational purposes only**. Students may:
 ### **Attribution:**
 When using this code, please cite:
 ```
-Mokashi, R. (2025). Prim's Algorithm for Smart City Network Optimization. 
+Patil, J. (2025). Prim's Algorithm for Smart City Network Optimization. 
 ADSA Laboratory, Government College of Engineering, Karad.
 ```
 
